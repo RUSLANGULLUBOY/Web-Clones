@@ -1,0 +1,11 @@
+#game-canvas {
+    width: 800px;
+    height: 600px;
+  }
+  .car {
+    position: absolute;
+    width: 50px;
+    height: 100px;
+    background-color: red;
+  }
+  
